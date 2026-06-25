@@ -1,0 +1,14 @@
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\bin\Debug\Calculator.exe.config
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\bin\Debug\Calculator.exe
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\bin\Debug\Calculator.pdb
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\obj\Debug\Calculator.exe
+D:\CDAC\practice\DotNet practice\Assignment1\Calculator\obj\Debug\Calculator.pdb
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\bin\Debug\Calculator.exe.config
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\bin\Debug\Calculator.exe
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\bin\Debug\Calculator.pdb
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\obj\Debug\Calculator.exe
+D:\CDAC\practice\DotNet_practice\Assignment1\Calculator\obj\Debug\Calculator.pdb
