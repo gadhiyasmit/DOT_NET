@@ -1,0 +1,14 @@
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\bin\Debug\net10.0\Project_1_HelloWorld.exe
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\bin\Debug\net10.0\Project_1_HelloWorld.deps.json
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\bin\Debug\net10.0\Project_1_HelloWorld.runtimeconfig.json
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\bin\Debug\net10.0\Project_1_HelloWorld.dll
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\bin\Debug\net10.0\Project_1_HelloWorld.pdb
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.AssemblyInfoInputs.cache
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.AssemblyInfo.cs
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.csproj.CoreCompileInputs.cache
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.dll
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\refint\Project_1_HelloWorld.dll
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.pdb
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\Project_1_HelloWorld.genruntimeconfig.cache
+D:\CDAC\practice\DotNet_practice\Project_1_HelloWorld\obj\Debug\net10.0\ref\Project_1_HelloWorld.dll
